@@ -1,0 +1,4 @@
+<launch>
+  <node pkg="robi_driver" name="robi_bringup" type="robi_bringup.py"
+        output="screen" />
+</launch>
